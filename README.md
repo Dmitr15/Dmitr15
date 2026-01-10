@@ -1,4 +1,5 @@
 ## Hi there 👋
+### My name is Dmitry, I'm a front-end developer who also enjoys back-end development in Laravel. I'm also interested in creating my own micro SAAS.
 
 <!--
 **Dmitr15/Dmitr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>My skills: </h2>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,py,c,cpp,html,css,sass,git,docker,redis,postman" />
+  </a>
