@@ -1,21 +1,25 @@
-## Hi there 👋
-### My name is Dmitry, I'm a front-end developer who also enjoys back-end development in Laravel. I'm also interested in creating my own micro SAAS.
+## 👋 Hi there! I'm Dmitry
 
-<!--
-**Dmitr15/Dmitr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end Developer × Laravel Back-end × SAAS Builder**
 
-Here are some ideas to get you started:
+I'm a developer who specializes in front-end technologies but also enjoys diving into back-end development with Laravel. Currently focused on building my own micro SAAS products and exploring full-stack solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>My skills: </h2>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,py,c,cpp,html,css,sass,git,docker,redis,postman" />
-  </a>
+### 💼 My Tech Toolbox
+
+<div align="center">
+  
+**Frontend Technologies**
+<br>
+<img src="https://skillicons.dev/icons?i=js,html,css,sass,react" title="Frontend Technologies" />
+<br><br>
+
+**Backend Technologies**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,docker,redis,c,cpp,py,mysql,sqlite" title="Backend Technologies" />
+<br><br>
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,linux" title="Tools & DevOps" />
+<br><br>
+</div>
