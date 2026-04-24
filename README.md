@@ -2,7 +2,7 @@
 
 **Front-end Developer × Laravel Back-end**
 
-I'm a developer who specializes in front-end technologies but also enjoys diving into back-end development with Laravel. Currently focused on building my own micro SAAS products and exploring full-stack solutions.
+I'm a developer who specializes in back-end development with Laravel but also enjoys diving into front-end technologies. Currently focused on building my own micro SAAS products and exploring full-stack solutions.
 
 ### 💼 My Tech Toolbox
 
