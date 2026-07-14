@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Dmitry
 
-**Front-end Developer × Laravel Back-end**
+**Full Stack analyst × Back-end developer**
 
-I'm a developer who specializes in back-end development with Laravel but also enjoys diving into front-end technologies. Currently focused on building my own micro SAAS products and exploring full-stack solutions.
+I am a full-stack analyst who specializes in system analysis. I'm also interested in back-end development. Currently focused on building my own micro SaaS product and improving my skills as an analyst.
 
 ### 💼 My Tech Toolbox
 
@@ -10,16 +10,16 @@ I'm a developer who specializes in back-end development with Laravel but also en
   
 **Frontend Technologies**
 <br>
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,react" title="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=js,html,css,sass" title="Frontend Technologies" />
 <br><br>
 
 **Backend Technologies**
 <br>
-<img src="https://skillicons.dev/icons?i=php,laravel,docker,redis,c,cpp,py,mysql,sqlite" title="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=php,java,c,cpp,py,laravel,qt,redis,mysql,sqlite,postgres" title="Backend Technologies" />
 <br><br>
 
 **Tools & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=git,postman,figma,linux" title="Tools & DevOps" />
+<img src="https://skillicons.dev/icons?i=git,postman,figma,linux,docker,nginx,elasticsearch,rabbitmq,kafka,grafana" title="Tools & DevOps" />
 <br><br>
 </div>
